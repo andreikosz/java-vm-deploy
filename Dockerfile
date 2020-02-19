@@ -1,7 +1,7 @@
 FROM openjdk:11
 RUN mkdir -p ~/java-app
-RUN ls .
-ADD /app-folder /java-app
+RUN ls /var
+ADD . /java-app
 WORKDIR /java-app
 ENTRYPOINT ["sh", "-c"]
 RUN chmod +x ./build/libs/spring-boot-app.jar
