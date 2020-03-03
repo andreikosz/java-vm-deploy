@@ -18,12 +18,12 @@ spec:
       - name: backend-app
         image: DOCKER_IMG
         ports:
-        - containerPort: APP_PORT
+        - containerPort: 8843
 ---
 kind: Service
 apiVersion: v1
 metadata:
-  name: backend-service-new
+  name: backend-service
 spec:
   selector:
     app: backend-app
