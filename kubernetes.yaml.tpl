@@ -18,7 +18,7 @@ spec:
       - name: backend-app
         image: DOCKER_IMG
         ports:
-        - containerPort: 8843
+        - containerPort: APP_PORT
 ---
 kind: Service
 apiVersion: v1
@@ -29,6 +29,6 @@ spec:
     app: backend-app
   ports:
   - protocol: TCP
-    port: 80
+    port: 8080
     targetPort: APP_PORT
   type: LoadBalancer
