@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping
     private String testEndpoint(){
-        return "Have a nice dadad!";
+        return "Have a nice dadsads!";
     }
 }
