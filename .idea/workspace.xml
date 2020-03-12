@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdb530ac-0aee-4e15-9bb4-bb8936e909f6" name="Default Changelist" comment="" />
+    <list default="true" id="fdb530ac-0aee-4e15-9bb4-bb8936e909f6" name="Default Changelist" comment="new">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/TestController.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -26,6 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="636c7bcd0578824f81f7075d7b6def39cf96c295" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UHaDpZav9Di5cVeAO8cAT4ypBe" />
@@ -37,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -108,6 +128,9 @@
       <list>
         <item itemvalue="Gradle.test [test]" />
         <item itemvalue="Gradle.test [jar]" />
+        <item itemvalue="Gradle.test [test]" />
+        <item itemvalue="Gradle.test [jar]" />
+        <item itemvalue="Gradle.test [test]" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +156,7 @@
       <workItem from="1583217689356" duration="150000" />
       <workItem from="1583228923540" duration="15000" />
       <workItem from="1583311278301" duration="10000" />
+      <workItem from="1584022723023" duration="390000" />
     </task>
     <servers />
   </component>
@@ -151,5 +175,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
