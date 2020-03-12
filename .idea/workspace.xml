@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fdb530ac-0aee-4e15-9bb4-bb8936e909f6" name="Default Changelist" comment="new">
+    <list default="true" id="fdb530ac-0aee-4e15-9bb4-bb8936e909f6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/TestController.java" afterDir="false" />
     </list>
@@ -47,6 +47,11 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="andreikosz" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="java-vm-deploy" />
   </component>
   <component name="ProjectId" id="1UHaDpZav9Di5cVeAO8cAT4ypBe" />
   <component name="PropertiesComponent">
@@ -156,8 +161,23 @@
       <workItem from="1583217689356" duration="150000" />
       <workItem from="1583228923540" duration="15000" />
       <workItem from="1583311278301" duration="10000" />
-      <workItem from="1584022723023" duration="390000" />
+      <workItem from="1584022723023" duration="719000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1584023118593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584023118593</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1584023190302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584023190302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
