@@ -1,5 +1,5 @@
-``` json
-{
+
+    {
     "deployType": "Can be kubernetes or vm and specifies where will be the app deployed",
     "appType":"Can be java8 or python3 and specifies the programming language of the app",
     "gitRepoURL": "The repo where the project will be pushed",
@@ -15,4 +15,4 @@
        ]
     }
 }
-```
+
